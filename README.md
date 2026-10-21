@@ -1,5 +1,5 @@
 # 💫 About Me:
-Vicenzo | Information technology (I.T) Student at SATC<br>Learning and building as I go. Currently in the 4th phase of my technical course.
+Vicenzo | Information Technology Graduate from SATC / Learning and building as I go.
 
 
 # 💻 Tech Stack:
